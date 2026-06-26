@@ -6,3 +6,4 @@ Roll NO. : 0001
 Program : BSAI
 <br>
 Career goals : I want to become an AI Engineer and develop intelligent systems that solve real-world problems using Artificial Intelligence and Machine Learning.
+this is my first github account
